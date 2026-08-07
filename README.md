@@ -38,4 +38,4 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`).
 
 ## 📄 License
 
-MIT
+Munna Kumar
